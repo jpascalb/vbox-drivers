@@ -1,0 +1,8 @@
+Title: Serial ATA: Intel Matrix Storage Manager - Notebooks,Intel Matrix Storage Manager Driver
+Version: A00
+OEM Name: 
+OEM Version: 7.0.0.1020
+Computers: Inspiron: 1318, M1330; Precision: M4300, M6300; Latitude: D530, D830, ATG D630, D630
+OS: Windows Vista 64-bit - Home Premium, Windows Vista 64-bit - Business, Windows Vista 64-bit - Ultimate, Windows XP x64 - Professional Client
+Languages: English,Japanese
+Created: 8/20/2013

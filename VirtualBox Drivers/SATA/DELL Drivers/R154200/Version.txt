@@ -1,0 +1,8 @@
+Title: Serial ATA: Intel Matrix Storage Manager - Notebooks,Intel Matrix Storage Manager Driver
+Version: A02
+OEM Name: 
+OEM Version: 7.0.0.1020
+Computers: Inspiron: 1318, M1330, 1720, 1520, M1730, 1420; Vostro Notebook: 1700, 1500, 1400; Precision: M4300, M6300; Latitude: D530, D830, 1700, 1500, D630c, ATG D630, D630
+OS: Windows Vista 32-bit - Home Premium, Windows Vista 32-bit - Home Basic, Windows Vista 32-bit - Business, Windows Vista 32-bit - Ultimate, Windows 2000 - Professional, Windows XP - Media Center Edition, Windows XP - Professional
+Languages: English
+Created: 11/19/2013
